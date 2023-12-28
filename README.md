@@ -1,1 +1,1 @@
-#Blur, Non-Blur image classification-MLflow-DVC
+# Blur, Non-Blur image classification-MLflow-DVC
